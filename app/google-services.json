@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "121591738324",
+    "firebase_url": "https://shittydesigncounter.firebaseio.com",
+    "project_id": "shittydesigncounter",
+    "storage_bucket": "shittydesigncounter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121591738324:android:d7224de1778a10e8",
+        "android_client_info": {
+          "package_name": "lol.graunephar.android.shittydesigncounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121591738324-8dtd34bv9km1dkau1npcauhi9o4jqfr4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lol.graunephar.android.shittydesigncounter",
+            "certificate_hash": "a7c9ccc0f73718835ac289c6d61e257fd124a8f1"
+          }
+        },
+        {
+          "client_id": "121591738324-mikt5ie0c2lk0rtosrlbsuh35jq3fnhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKMENHjhpZK66UVWOEnGSY8YDItckJU80"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121591738324-mikt5ie0c2lk0rtosrlbsuh35jq3fnhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

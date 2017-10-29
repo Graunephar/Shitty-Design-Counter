@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shitty Design Counter</string>
+    <string name="username_label_text">Email</string>
+    <string name="password_label_text">Password</string>
+    <string name="create_user_btn">Create User</string>
+    <string name="sign_in_btn">Sign In</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="sign_in_toast_error">Unable to login, please try again</string>
+    <string name="log_out">Log out</string>
+    <string name="login_toast_logged_out_message">Successfully logged out</string>
+    <string name="sign_in_toast_unable_create_error">Unable to create user</string>
+    <string name="login_toast_invalid_pass">Password Invalid</string>
+    <string name="login_toast_invalid_user">Username not found</string>
+    <string name="login_toast_unknown_error">An Unknown Error Occured</string>
+    <string name="login_toast_no_password">Please provide a password</string>
+    <string name="login_toast_no_email">Please provide an email address</string>
+</resources>
